@@ -1,4 +1,3 @@
-
 .nav-links {
   background-color: black;
   text-align: center;
@@ -13,7 +12,7 @@
 }
 
 .quote-author{
-
+  
 }
 
 .about-head {
@@ -39,49 +38,5 @@
 }
 
 .other-message {
-
-}
-
-.nav-links {
-  background-color: black;
-  text-align: center;
-}
-
-.title-name {
-  text-align: center;
-}
-
-.title-quote {
-
-}
-
-.quote-author{
-
-}
-
-.about-head {
-  text-align: center;
-}
-
-.about {
-  font-size: 15px;
-  text-align: center;
-}
-
-.image {
-
-  border: solid;
-  border-right: transparent;
-  border-left: transparent;
-  border-style: groove;
-  text-align: center;
-}
-
-.other-works {
-
-}
-
-.other-message {
-
 
 }
