@@ -12,7 +12,7 @@
 }
 
 .quote-author{
-  
+  margin-bottom: ($spacer * 3) !important;  
 }
 
 .about-head {
@@ -25,7 +25,6 @@
 }
 
 .image {
-
   border: solid;
   border-right: transparent;
   border-left: transparent;
@@ -33,10 +32,11 @@
   text-align: center;
 }
 
-.other-works {
 
+.m {
+  margin-top: ($spacer * 3) !important;
 }
 
-.other-message {
-
+.m-2 {
+  margin-bottom: ($spacer * 1) !important;
 }
