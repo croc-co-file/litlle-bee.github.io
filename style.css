@@ -12,7 +12,7 @@
 }
 
 .quote-author{
-  margin-bottom: ($spacer * 3) !important;  
+  margin-bottom: 3rem !important;  
 }
 
 .about-head {
@@ -34,9 +34,9 @@
 
 
 .m {
-  margin-top: ($spacer * 3) !important;
+  margin-top: 3rem !important;
 }
 
 .m-2 {
-  margin-bottom: ($spacer * 1) !important;
+  margin-bottom: 1rem !important;
 }
