@@ -7,21 +7,15 @@
   text-align: center;
 }
 
-.title-quote {
-
-}
-
-.quote-author{
-  margin-bottom: 3rem !important;  
-}
 
 .about-head {
   text-align: center;
 }
 
 .about {
-  font-size: 15px;
   text-align: center;
+  background-color: black;
+  border: 7rem;
 }
 
 .image {
@@ -32,11 +26,24 @@
   text-align: center;
 }
 
-
-.m {
-  margin-top: 3rem !important;
+.footer-text {
+  font-size: 9px;
 }
 
-.m-2 {
-  margin-bottom: 1rem !important;
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2315927.jpg");
+  color: #FFFFFF;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.quote {
+  padding-right: 20rem;
 }
